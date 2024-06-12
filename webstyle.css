@@ -1,0 +1,105 @@
+body {
+    font-family: "Roboto", sans-serif; }
+
+h1,
+h2,
+h3,
+h4,
+.Roboto{
+    font-family: "Roboto", sans-serif;
+}
+
+
+
+header {
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)), url(https://postfiles.pstatic.net/MjAyNDA2MTJfMTgy/MDAxNzE4MTg4NTkwNjcz.JbohNyEfwRGDIYjf8FqGBvqxyXy6Le4idVuhgBI5Mf4g.22mnMy7zdPw7-2EpsEQeu7exA7-V5GGS5Y11m4uadYUg.JPEG/%EB%B0%B0%EA%B2%BD%ED%99%94%EB%A9%B4.jpg?type=w966);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+
+}
+
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .roboto-thin-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .roboto-black-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
+
+.nav-link:hover,
+.nav-link.active {
+    color: #ff0707 !important;
+    color: aliceblue ;
+}
+
+#introduction
+{background-image:linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)),  url(https://postfiles.pstatic.net/MjAyNDA2MTJfMTYw/MDAxNzE4MTg4MzgzMTQ5.NfFj-AAmMWN7cc-DmjZvAA90iXvkI-Nl6_c6NpkuNU4g.VdsP5QlMY7emRK82cgINBoaoQIOW3yROR4qfcN4PJ6Ug.JPEG/introduction.jpg?type=w966);
+background-size: cover;
+background-position: center;
+}
